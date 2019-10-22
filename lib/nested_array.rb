@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  residents = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  ennet_house_sorted = ENNET_HOUSE.sort
 end
 
 def array_literal_matrix
