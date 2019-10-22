@@ -17,9 +17,8 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  ennet_house_sorted = ENNET_HOUSE.sort
-  enfield_tennis_academy_sorted = ENFIELD_TENNIS_ACADEMY.sort
-  sorted_list = [ennet_house_sorted, enfield_tennis_academy_sorted]
+  # Build an array that contains (or, "nests") the residents of The Ennet House
+  # and the Enfield Tennis Academy as provided by the constants
 end
 
 def array_literal_matrix
