@@ -18,6 +18,8 @@ ENFIELD_TENNIS_ACADEMY = [
 
 def assembled_matrix
   ennet_house_sorted = ENNET_HOUSE.sort
+  enfield_tennis_academy_sorted = ENFIELD_TENNIS_ACADEMY.sort
+  sorted_list = [ennet_house_sorted, enfield_tennis_academy_sorted]
 end
 
 def array_literal_matrix
